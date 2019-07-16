@@ -1,3 +1,0 @@
-Hi,
-I am Jiaqi and I just created a text file on a Linux server running in the cloud!
-
